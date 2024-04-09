@@ -19,6 +19,11 @@ export default function App() {
             descricao = 'Todos os dias eu durmo no mínimo 8h'
             imagem = 'https://cdn-icons-png.flaticon.com/512/1422/1422872.png'
       ></Card>
+      <Card porcentagem = '29,17%'
+            titulo = 'Dormir'
+            descricao = 'Todos os dias eu durmo no mínimo 8h'
+            imagem = 'https://cdn-icons-png.flaticon.com/512/1422/1422872.png'
+      ></Card>
 
 
       <Card porcentagem = '16,7%'
