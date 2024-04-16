@@ -4,7 +4,7 @@ const estilo = StyleSheet.create({
     card: {
         marginTop: 20,
         backgroundColor: '#A020F0',
-        width: '40%',
+        width: 700,
         borderRadius: 30,
         height: 200,
         alignItems:'center',
